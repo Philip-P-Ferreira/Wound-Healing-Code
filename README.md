@@ -12,5 +12,7 @@ My group designed and prototyped a small, portable device that contained three U
 - Peripherals: Peripherals: SparkFun RGB Light Sensor (ISL29125)
 
 ### Device:
-![view 1](image_1.jpg)
-![view_2](image_2.jpg)
+
+<img src="image_1.jpg" alt="view 1" width="300" max_width="100"/>
+<img src="image_2.jpg" alt="view 2" width="300"/>
+
