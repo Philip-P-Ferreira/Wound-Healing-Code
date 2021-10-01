@@ -13,6 +13,6 @@ My group designed and prototyped a small, portable device that contained three U
 
 ### Device:
 
-<img src="image_1.jpg" alt="view 1" width="300" max_width="100"/>
-<img src="image_2.jpg" alt="view 2" width="300"/>
+<img src="image_1.jpg" alt="view 1" width="275"/>
+<img src="image_2.jpg" alt="view 2" width="275"/>
 
